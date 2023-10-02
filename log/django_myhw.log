@@ -1,0 +1,1257 @@
+INFO 2023-09-11 16:03:25,108 autoreload 2288 6196 Watching for file changes with StatReloader
+INFO 2023-09-11 16:05:49,940 autoreload 1924 3720 Watching for file changes with StatReloader
+INFO 2023-09-11 16:08:23,851 autoreload 9848 15036 Watching for file changes with StatReloader
+INFO 2023-09-11 16:08:27,223 views 9848 8200 Index page accessed successfully!
+INFO 2023-09-11 16:08:27,225 basehttp 9848 8200 "GET / HTTP/1.1" 200 24
+INFO 2023-09-11 16:08:39,166 views 9848 8200 About page accessed successfully!
+INFO 2023-09-11 16:08:39,167 basehttp 9848 8200 "GET /about/ HTTP/1.1" 200 52
+INFO 2023-09-18 17:39:38,468 autoreload 1236 2600 Watching for file changes with StatReloader
+INFO 2023-09-18 17:39:42,514 views 1236 5824 Index page accessed successfully!
+INFO 2023-09-18 17:39:42,515 basehttp 1236 5824 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:39:43,165 log 1236 5824 Not Found: /favicon.ico
+WARNING 2023-09-18 17:39:43,165 basehttp 1236 5824 "GET /favicon.ico HTTP/1.1" 404 2436
+WARNING 2023-09-18 17:39:56,427 log 1236 5824 Not Found: /user/1/order
+WARNING 2023-09-18 17:39:56,428 basehttp 1236 5824 "GET /user/1/order HTTP/1.1" 404 2439
+WARNING 2023-09-18 17:40:04,070 log 1236 5824 Not Found: /user/1/orders
+WARNING 2023-09-18 17:40:04,070 basehttp 1236 5824 "GET /user/1/orders HTTP/1.1" 404 2442
+INFO 2023-09-18 17:41:55,110 autoreload 3012 8648 Watching for file changes with StatReloader
+INFO 2023-09-18 17:42:30,452 views 3012 1464 Index page accessed successfully!
+INFO 2023-09-18 17:42:30,453 basehttp 3012 1464 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:42:52,937 log 3012 1464 Not Found: /users/1/orders
+WARNING 2023-09-18 17:42:52,938 basehttp 3012 1464 "GET /users/1/orders HTTP/1.1" 404 2445
+WARNING 2023-09-18 17:42:59,829 log 3012 1464 Not Found: /users/1/orders/
+WARNING 2023-09-18 17:42:59,830 basehttp 3012 1464 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 17:46:44,941 autoreload 11168 13120 Watching for file changes with StatReloader
+INFO 2023-09-18 17:46:49,676 views 11168 7500 Index page accessed successfully!
+INFO 2023-09-18 17:46:49,678 basehttp 11168 7500 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:47:06,994 log 11168 7500 Not Found: /users/1/orders/
+WARNING 2023-09-18 17:47:06,994 basehttp 11168 7500 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 17:53:26,596 autoreload 11168 13120 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\hw2_app\models.py changed, reloading.
+INFO 2023-09-18 17:53:27,045 autoreload 11668 3504 Watching for file changes with StatReloader
+INFO 2023-09-18 17:54:39,227 autoreload 1188 3192 Watching for file changes with StatReloader
+INFO 2023-09-18 17:54:42,096 views 1188 2824 Index page accessed successfully!
+INFO 2023-09-18 17:54:42,097 basehttp 1188 2824 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:54:56,125 log 1188 2824 Not Found: /users/1/orders
+WARNING 2023-09-18 17:54:56,125 basehttp 1188 2824 "GET /users/1/orders HTTP/1.1" 404 2445
+INFO 2023-09-18 17:58:23,568 autoreload 14756 10720 Watching for file changes with StatReloader
+INFO 2023-09-18 17:58:30,719 views 14756 5876 Index page accessed successfully!
+INFO 2023-09-18 17:58:30,720 basehttp 14756 5876 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 17:58:44,298 log 14756 5876 Not Found: /users/1/orders/
+WARNING 2023-09-18 17:58:44,298 basehttp 14756 5876 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 18:01:59,595 autoreload 14464 2452 Watching for file changes with StatReloader
+INFO 2023-09-18 18:02:02,768 views 14464 12300 Index page accessed successfully!
+INFO 2023-09-18 18:02:02,769 basehttp 14464 12300 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 18:02:28,119 log 14464 12300 Not Found: /users/1/orders/
+WARNING 2023-09-18 18:02:28,119 basehttp 14464 12300 "GET /users/1/orders/ HTTP/1.1" 404 2448
+INFO 2023-09-18 18:05:22,688 autoreload 6108 2684 Watching for file changes with StatReloader
+INFO 2023-09-18 18:05:25,401 views 6108 12036 Index page accessed successfully!
+INFO 2023-09-18 18:05:25,403 basehttp 6108 12036 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-18 18:05:39,295 log 6108 12036 Not Found: /users/1/orders
+WARNING 2023-09-18 18:05:39,296 basehttp 6108 12036 "GET /users/1/orders HTTP/1.1" 404 2445
+INFO 2023-09-18 18:07:04,321 autoreload 6108 2684 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\urls.py changed, reloading.
+INFO 2023-09-18 18:07:04,721 autoreload 6320 1700 Watching for file changes with StatReloader
+INFO 2023-09-18 18:07:06,013 autoreload 6320 1700 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\urls.py changed, reloading.
+INFO 2023-09-18 18:07:06,410 autoreload 13128 13716 Watching for file changes with StatReloader
+INFO 2023-09-18 18:08:17,242 autoreload 9376 4364 Watching for file changes with StatReloader
+INFO 2023-09-18 18:08:53,023 autoreload 7196 6536 Watching for file changes with StatReloader
+INFO 2023-09-18 18:09:34,990 autoreload 5300 2560 Watching for file changes with StatReloader
+INFO 2023-09-20 21:12:13,420 autoreload 1380 15000 Watching for file changes with StatReloader
+INFO 2023-09-20 21:12:16,555 views 1380 14216 Index page accessed successfully!
+INFO 2023-09-20 21:12:16,556 basehttp 1380 14216 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-20 21:12:17,037 log 1380 14216 Not Found: /favicon.ico
+WARNING 2023-09-20 21:12:17,038 basehttp 1380 14216 "GET /favicon.ico HTTP/1.1" 404 2436
+WARNING 2023-09-20 21:12:34,509 log 1380 14216 Not Found: /hello2/
+WARNING 2023-09-20 21:12:34,509 basehttp 1380 14216 "GET /hello2/ HTTP/1.1" 404 2424
+WARNING 2023-09-20 21:12:51,374 log 1380 14216 Not Found: /hello2/
+WARNING 2023-09-20 21:12:51,375 basehttp 1380 14216 "GET /hello2/ HTTP/1.1" 404 2424
+INFO 2023-09-20 21:14:41,930 autoreload 14776 4860 Watching for file changes with StatReloader
+WARNING 2023-09-20 21:14:51,315 log 14776 13156 Not Found: /hw/hello2/
+WARNING 2023-09-20 21:14:51,315 basehttp 14776 13156 "GET /hw/hello2/ HTTP/1.1" 404 2606
+WARNING 2023-09-20 21:14:56,214 log 14776 13156 Not Found: /hw/hello2
+WARNING 2023-09-20 21:14:56,215 basehttp 14776 13156 "GET /hw/hello2 HTTP/1.1" 404 2603
+WARNING 2023-09-20 21:15:03,354 log 14776 13156 Not Found: /hw/
+WARNING 2023-09-20 21:15:03,355 basehttp 14776 13156 "GET /hw/ HTTP/1.1" 404 2585
+INFO 2023-09-20 21:15:13,047 autoreload 14776 4860 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\urls.py changed, reloading.
+INFO 2023-09-20 21:15:13,469 autoreload 6228 3284 Watching for file changes with StatReloader
+WARNING 2023-09-20 21:15:16,332 log 6228 9576 Not Found: /hw/
+WARNING 2023-09-20 21:15:16,332 basehttp 6228 9576 "GET /hw/ HTTP/1.1" 404 2584
+INFO 2023-09-20 21:15:24,423 basehttp 6228 9576 "GET /hw/hello2 HTTP/1.1" 301 0
+INFO 2023-09-20 21:15:24,428 basehttp 6228 5216 "GET /hw/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-20 21:15:33,282 autoreload 6228 3284 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\urls.py changed, reloading.
+INFO 2023-09-20 21:15:33,672 autoreload 14440 14448 Watching for file changes with StatReloader
+INFO 2023-09-20 21:26:50,864 autoreload 14964 152 Watching for file changes with StatReloader
+INFO 2023-09-20 21:27:00,014 basehttp 14964 7580 "GET /hw/if HTTP/1.1" 301 0
+INFO 2023-09-20 21:27:00,028 basehttp 14964 13124 "GET /hw/if/ HTTP/1.1" 200 152
+INFO 2023-09-20 21:29:42,102 autoreload 10508 14760 Watching for file changes with StatReloader
+INFO 2023-09-20 21:29:46,336 basehttp 10508 3464 "GET /hw/if/ HTTP/1.1" 200 190
+INFO 2023-09-20 21:31:25,418 autoreload 1320 13456 Watching for file changes with StatReloader
+INFO 2023-09-20 21:31:29,629 basehttp 1320 2920 "GET /hw/if/ HTTP/1.1" 200 331
+WARNING 2023-09-20 21:31:57,564 log 1320 2920 Not Found: /hw/
+WARNING 2023-09-20 21:31:57,565 basehttp 1320 2920 "GET /hw/ HTTP/1.1" 404 2754
+INFO 2023-09-20 21:52:12,944 autoreload 15356 12928 Watching for file changes with StatReloader
+INFO 2023-09-20 21:52:18,429 views 15356 13816 Index page accessed successfully!
+INFO 2023-09-20 21:52:18,430 basehttp 15356 13816 "GET / HTTP/1.1" 200 24
+INFO 2023-09-20 21:52:36,291 basehttp 15356 13816 "GET /hw/user/2 HTTP/1.1" 301 0
+ERROR 2023-09-20 21:52:36,395 log 15356 11392 Internal Server Error: /hw/user/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 27, in user_orders
+    orders = Order.objects.filter(user=user)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2023-09-20 21:52:36,400 basehttp 15356 11392 "GET /hw/user/2/ HTTP/1.1" 500 116505
+INFO 2023-09-20 21:52:56,366 basehttp 15356 11392 "GET /hw/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-20 21:53:06,379 basehttp 15356 11392 "GET /hw/user/1 HTTP/1.1" 301 0
+ERROR 2023-09-20 21:53:06,437 log 15356 14644 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 27, in user_orders
+    orders = Order.objects.filter(user=user)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2023-09-20 21:53:06,441 basehttp 15356 14644 "GET /hw/user/1/ HTTP/1.1" 500 116505
+INFO 2023-09-20 21:54:46,075 autoreload 15356 12928 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 21:54:46,457 autoreload 3184 484 Watching for file changes with StatReloader
+ERROR 2023-09-20 21:54:54,889 log 3184 12448 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: user_orders.html
+ERROR 2023-09-20 21:54:54,892 basehttp 3184 12448 "GET /hw/user/1/ HTTP/1.1" 500 82003
+INFO 2023-09-20 21:56:11,400 autoreload 8256 14548 Watching for file changes with StatReloader
+ERROR 2023-09-20 21:56:16,438 log 8256 10192 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: user_orders.html
+ERROR 2023-09-20 21:56:16,441 basehttp 8256 10192 "GET /hw/user/1/ HTTP/1.1" 500 82003
+ERROR 2023-09-20 21:56:20,116 log 8256 10192 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: user_orders.html
+ERROR 2023-09-20 21:56:20,119 basehttp 8256 10192 "GET /hw/user/1/ HTTP/1.1" 500 82003
+INFO 2023-09-20 22:24:12,953 autoreload 7408 15296 Watching for file changes with StatReloader
+WARNING 2023-09-20 22:24:26,969 log 7408 15124 Not Found: /hw/
+WARNING 2023-09-20 22:24:26,970 basehttp 7408 15124 "GET /hw/ HTTP/1.1" 404 2949
+WARNING 2023-09-20 22:24:39,336 log 7408 15124 Not Found: /hw/user/
+WARNING 2023-09-20 22:24:39,336 basehttp 7408 15124 "GET /hw/user/ HTTP/1.1" 404 2964
+ERROR 2023-09-20 22:25:00,512 log 7408 15124 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: user_orders.html
+ERROR 2023-09-20 22:25:00,515 basehttp 7408 15124 "GET /hw/user/1/ HTTP/1.1" 500 81866
+INFO 2023-09-20 22:27:22,848 autoreload 11056 15232 Watching for file changes with StatReloader
+ERROR 2023-09-20 22:27:27,410 log 11056 2940 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'new_hw_app/user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-09-20 22:27:27,416 basehttp 11056 2940 "GET /hw/user/1/ HTTP/1.1" 500 133746
+ERROR 2023-09-20 22:27:36,542 log 11056 2940 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'new_hw_app/user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-09-20 22:27:36,547 basehttp 11056 2940 "GET /hw/user/1/ HTTP/1.1" 500 133746
+ERROR 2023-09-20 22:27:37,796 log 11056 2940 Internal Server Error: /hw/user/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'new_hw_app/user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-09-20 22:27:37,801 basehttp 11056 2940 "GET /hw/user/1/ HTTP/1.1" 500 133746
+INFO 2023-09-20 22:29:05,449 autoreload 14116 14076 Watching for file changes with StatReloader
+INFO 2023-09-20 22:29:12,367 basehttp 14116 12420 "GET /hw/hello2/ HTTP/1.1" 200 23
+ERROR 2023-09-20 22:29:22,476 log 14116 12420 Internal Server Error: /hw/user/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 28, in user_orders
+    return render(request, 'new_hw_app/user_orders.html', {'user': user, 'orders': orders})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-09-20 22:29:22,482 basehttp 14116 12420 "GET /hw/user/2/ HTTP/1.1" 500 133622
+INFO 2023-09-20 22:30:51,798 autoreload 6208 8296 Watching for file changes with StatReloader
+INFO 2023-09-20 22:30:55,987 basehttp 6208 15080 "GET /hw/user/2/ HTTP/1.1" 200 783
+INFO 2023-09-20 22:31:05,399 basehttp 6208 15080 "GET /hw/user/1/ HTTP/1.1" 200 781
+INFO 2023-09-20 22:31:12,655 basehttp 6208 15080 "GET /hw/user/3/ HTTP/1.1" 200 870
+INFO 2023-09-20 22:36:14,051 autoreload 6208 8296 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:36:14,455 autoreload 1076 12896 Watching for file changes with StatReloader
+INFO 2023-09-20 22:40:40,329 autoreload 14100 1640 Watching for file changes with StatReloader
+WARNING 2023-09-20 22:40:47,981 log 14100 5256 Not Found: /hw/user/form
+WARNING 2023-09-20 22:40:47,982 basehttp 14100 5256 "GET /hw/user/form HTTP/1.1" 404 3153
+INFO 2023-09-20 22:40:55,952 basehttp 14100 5256 "GET /hw/user/add HTTP/1.1" 301 0
+ERROR 2023-09-20 22:40:55,988 log 14100 10384 Internal Server Error: /hw/user/add/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 34, in user_form
+    if form.is_valid():
+UnboundLocalError: local variable 'form' referenced before assignment
+ERROR 2023-09-20 22:40:55,990 basehttp 14100 10384 "GET /hw/user/add/ HTTP/1.1" 500 65713
+INFO 2023-09-20 22:41:22,807 autoreload 14100 1640 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:41:23,195 autoreload 14532 15116 Watching for file changes with StatReloader
+ERROR 2023-09-20 22:41:25,822 log 14532 15124 Internal Server Error: /hw/user/add/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 34, in user_form
+    if form.is_valid():
+UnboundLocalError: local variable 'form' referenced before assignment
+ERROR 2023-09-20 22:41:25,823 basehttp 14532 15124 "GET /hw/user/add/ HTTP/1.1" 500 65850
+INFO 2023-09-20 22:43:24,601 autoreload 14532 15116 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:43:25,002 autoreload 8868 4176 Watching for file changes with StatReloader
+INFO 2023-09-20 22:43:28,212 autoreload 8868 4176 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:43:28,596 autoreload 13952 1312 Watching for file changes with StatReloader
+INFO 2023-09-20 22:43:31,939 autoreload 13952 1312 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:43:32,322 autoreload 2008 8264 Watching for file changes with StatReloader
+INFO 2023-09-20 22:44:02,273 autoreload 2008 8264 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:44:02,645 autoreload 13264 13764 Watching for file changes with StatReloader
+INFO 2023-09-20 22:44:04,979 autoreload 13264 13764 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:44:05,374 autoreload 8340 3172 Watching for file changes with StatReloader
+INFO 2023-09-20 22:44:07,713 autoreload 8340 3172 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:44:08,104 autoreload 2940 11424 Watching for file changes with StatReloader
+ERROR 2023-09-20 22:44:25,274 log 2940 14352 Internal Server Error: /hw/user/add/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 42, in user_form
+    return render(request, 'new_hw_app/user_form.html', {'form':form})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-09-20 22:44:25,281 basehttp 2940 14352 "GET /hw/user/add/ HTTP/1.1" 500 129264
+INFO 2023-09-20 22:44:44,492 basehttp 2940 14352 "GET /hw/user/add/ HTTP/1.1" 200 917
+INFO 2023-09-20 22:50:52,488 autoreload 5236 1312 Watching for file changes with StatReloader
+INFO 2023-09-20 22:51:02,961 basehttp 5236 8264 "GET /hw/user/ HTTP/1.1" 200 895
+ERROR 2023-09-20 22:51:22,068 log 5236 8264 Internal Server Error: /hw/user/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view new_hw_app.views.add_user didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-09-20 22:51:22,069 basehttp 5236 8264 "POST /hw/user/ HTTP/1.1" 500 68064
+INFO 2023-09-20 22:53:39,084 autoreload 5236 1312 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py changed, reloading.
+INFO 2023-09-20 22:53:39,480 autoreload 14964 12360 Watching for file changes with StatReloader
+INFO 2023-09-20 22:53:44,708 basehttp 14964 14556 "GET /hw/user/ HTTP/1.1" 200 895
+INFO 2023-09-20 22:54:04,150 basehttp 14964 14556 "POST /hw/user/ HTTP/1.1" 200 954
+INFO 2023-09-20 23:11:36,290 autoreload 10404 13020 Watching for file changes with StatReloader
+INFO 2023-09-20 23:13:10,559 autoreload 10404 13020 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:13:10,941 autoreload 15280 8872 Watching for file changes with StatReloader
+INFO 2023-09-20 23:14:45,814 autoreload 6324 12748 Watching for file changes with StatReloader
+INFO 2023-09-20 23:17:29,707 autoreload 15280 14856 Watching for file changes with StatReloader
+INFO 2023-09-20 23:19:08,841 autoreload 13960 13636 Watching for file changes with StatReloader
+WARNING 2023-09-20 23:19:26,617 log 13960 1780 Not Found: /hw/edit_product/
+WARNING 2023-09-20 23:19:26,617 basehttp 13960 1780 "GET /hw/edit_product/ HTTP/1.1" 404 3367
+INFO 2023-09-20 23:19:33,512 basehttp 13960 1780 "GET /hw/edit_product/2 HTTP/1.1" 301 0
+ERROR 2023-09-20 23:19:33,551 log 13960 15128 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 57, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2023-09-20 23:19:33,552 basehttp 13960 15128 "GET /hw/edit_product/2/ HTTP/1.1" 500 66154
+INFO 2023-09-20 23:23:14,981 autoreload 13012 8832 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:23:21,200 log 13012 15272 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 59, in edit_product
+    return render(request, 'new_hw_app/edit_product.html', {'form': form, 'product': product})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\context.py", line 251, in bind_template
+    processors = template.engine.template_context_processors + self._processors
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in template_context_processors
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in <genexpr>
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django.core.context_processors'
+ERROR 2023-09-20 23:23:21,205 basehttp 13012 15272 "GET /hw/edit_product/2/ HTTP/1.1" 500 124137
+INFO 2023-09-20 23:24:45,505 autoreload 13012 8832 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:24:45,900 autoreload 2636 7580 Watching for file changes with StatReloader
+INFO 2023-09-20 23:24:56,362 autoreload 2636 7580 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:24:56,749 autoreload 14344 9904 Watching for file changes with StatReloader
+INFO 2023-09-20 23:26:29,496 autoreload 11584 6512 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:26:34,031 log 11584 7396 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 59, in edit_product
+    return render(request, 'new_hw_app/edit_product.html', {'form': form, 'product': product})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\context.py", line 251, in bind_template
+    processors = template.engine.template_context_processors + self._processors
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in template_context_processors
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in <genexpr>
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django.core.context_processors'
+ERROR 2023-09-20 23:26:34,036 basehttp 11584 7396 "GET /hw/edit_product/2/ HTTP/1.1" 500 124137
+INFO 2023-09-20 23:26:42,241 basehttp 11584 7396 "GET /hw/edit_product/1 HTTP/1.1" 301 0
+ERROR 2023-09-20 23:26:42,279 log 11584 8056 Internal Server Error: /hw/edit_product/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 59, in edit_product
+    return render(request, 'new_hw_app/edit_product.html', {'form': form, 'product': product})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\context.py", line 251, in bind_template
+    processors = template.engine.template_context_processors + self._processors
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in template_context_processors
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in <genexpr>
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django.core.context_processors'
+ERROR 2023-09-20 23:26:42,283 basehttp 11584 8056 "GET /hw/edit_product/1/ HTTP/1.1" 500 124006
+INFO 2023-09-20 23:30:52,842 autoreload 12760 10404 Watching for file changes with StatReloader
+INFO 2023-09-20 23:33:40,524 autoreload 14180 12448 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:33:45,087 log 14180 13516 Internal Server Error: /hw/edit_product/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 57, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2023-09-20 23:33:45,088 basehttp 14180 13516 "GET /hw/edit_product/1/ HTTP/1.1" 500 66292
+INFO 2023-09-20 23:37:17,652 autoreload 2644 14900 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:37:21,823 log 2644 14180 Internal Server Error: /hw/edit_product/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 59, in edit_product
+    return render(request, 'new_hw_app/edit_product.html', {'form': form, 'product': product})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\context.py", line 251, in bind_template
+    processors = template.engine.template_context_processors + self._processors
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in template_context_processors
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in <genexpr>
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django.core.context_processors'
+ERROR 2023-09-20 23:37:21,827 basehttp 2644 14180 "GET /hw/edit_product/1/ HTTP/1.1" 500 124060
+INFO 2023-09-20 23:39:44,712 autoreload 2644 14900 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:39:45,111 autoreload 14448 13632 Watching for file changes with StatReloader
+INFO 2023-09-20 23:39:56,041 autoreload 8868 11232 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:39:59,968 log 8868 14744 Internal Server Error: /hw/edit_product/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 59, in edit_product
+    return render(request, 'new_hw_app/edit_product.html', {'form': form, 'product': product})
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 173, in render
+    with context.bind_template(self):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\contextlib.py", line 135, in __enter__
+    return next(self.gen)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\context.py", line 251, in bind_template
+    processors = template.engine.template_context_processors + self._processors
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in template_context_processors
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 116, in <genexpr>
+    return tuple(import_string(path) for path in context_processors)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django.core.context_processors'
+ERROR 2023-09-20 23:39:59,972 basehttp 8868 14744 "GET /hw/edit_product/1/ HTTP/1.1" 500 124168
+INFO 2023-09-20 23:42:02,647 autoreload 1148 1336 Watching for file changes with StatReloader
+INFO 2023-09-20 23:42:08,737 basehttp 1148 14356 "GET /hw/edit_product/1/ HTTP/1.1" 200 1578
+INFO 2023-09-20 23:42:18,707 basehttp 1148 14356 "GET /hw/edit_product/2/ HTTP/1.1" 200 1577
+ERROR 2023-09-20 23:42:47,087 log 1148 14356 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 55, in edit_product
+    return redirect('product_detail', product_id=product_id)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product_detail' not found. 'product_detail' is not a valid view function or pattern name.
+ERROR 2023-09-20 23:42:47,090 basehttp 1148 14356 "POST /hw/edit_product/2/ HTTP/1.1" 500 87209
+INFO 2023-09-20 23:42:57,504 autoreload 1148 1336 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\settings.py changed, reloading.
+INFO 2023-09-20 23:42:57,913 autoreload 13012 12968 Watching for file changes with StatReloader
+INFO 2023-09-20 23:44:23,324 autoreload 15068 8872 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:44:28,649 log 15068 9960 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 52, in edit_product
+    form = ProductForm(request.POST, request.FILES, instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2023-09-20 23:44:28,651 basehttp 15068 9960 "POST /hw/edit_product/2/ HTTP/1.1" 500 68658
+INFO 2023-09-20 23:44:37,016 autoreload 15068 8872 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:44:37,415 autoreload 14648 14580 Watching for file changes with StatReloader
+INFO 2023-09-20 23:44:38,652 autoreload 14648 14580 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:44:39,056 autoreload 14712 14960 Watching for file changes with StatReloader
+ERROR 2023-09-20 23:44:43,068 log 14712 6228 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 55, in edit_product
+    return redirect('product_detail', product_id=product_id)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product_detail' not found. 'product_detail' is not a valid view function or pattern name.
+ERROR 2023-09-20 23:44:43,071 basehttp 14712 6228 "POST /hw/edit_product/2/ HTTP/1.1" 500 87209
+INFO 2023-09-20 23:44:54,585 basehttp 14712 6228 "GET /hw/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-20 23:45:01,788 basehttp 14712 6228 "GET /hw/edit_product/1/ HTTP/1.1" 200 1578
+INFO 2023-09-20 23:45:10,403 autoreload 14712 14960 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:45:10,821 autoreload 15016 14952 Watching for file changes with StatReloader
+INFO 2023-09-20 23:45:12,065 autoreload 15016 14952 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:45:12,440 autoreload 7220 11056 Watching for file changes with StatReloader
+INFO 2023-09-20 23:45:22,800 basehttp 7220 10168 "GET /hw/hello2/ HTTP/1.1" 200 23
+ERROR 2023-09-20 23:45:30,901 log 7220 10168 Internal Server Error: /hw/edit_product/2/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 57, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2023-09-20 23:45:30,902 basehttp 7220 10168 "GET /hw/edit_product/2/ HTTP/1.1" 500 66104
+ERROR 2023-09-20 23:45:35,489 log 7220 10168 Internal Server Error: /hw/edit_product/1/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\views.py", line 57, in edit_product
+    form = ProductForm(instance=product)
+TypeError: BaseForm.__init__() got an unexpected keyword argument 'instance'
+ERROR 2023-09-20 23:45:35,491 basehttp 7220 10168 "GET /hw/edit_product/1/ HTTP/1.1" 500 66093
+INFO 2023-09-20 23:45:41,683 autoreload 7220 11056 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:45:42,081 autoreload 14708 5644 Watching for file changes with StatReloader
+INFO 2023-09-20 23:45:43,381 autoreload 14708 5644 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\forms.py changed, reloading.
+INFO 2023-09-20 23:45:43,762 autoreload 15232 15064 Watching for file changes with StatReloader
+INFO 2023-09-20 23:49:42,305 autoreload 14804 5048 Watching for file changes with StatReloader
+INFO 2023-09-20 23:49:47,895 views 14804 2892 Index page accessed successfully!
+INFO 2023-09-20 23:49:47,896 basehttp 14804 2892 "GET / HTTP/1.1" 200 24
+INFO 2023-09-20 23:50:02,024 basehttp 14804 2892 "GET /hw/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-20 23:50:11,369 basehttp 14804 2892 "GET /hw/edit_product/2/ HTTP/1.1" 200 1705
+INFO 2023-09-20 23:50:15,210 basehttp 14804 2892 "POST /hw/edit_product/2/ HTTP/1.1" 302 0
+INFO 2023-09-20 23:50:15,216 basehttp 14804 2892 "GET /hw/product/2/ HTTP/1.1" 200 532
+WARNING 2023-09-20 23:50:15,261 log 14804 2892 Not Found: /media/products/сфе_VjdA6SK.jpg
+WARNING 2023-09-20 23:50:15,261 basehttp 14804 2892 "GET /media/products/%D1%81%D1%84%D0%B5_VjdA6SK.jpg HTTP/1.1" 404 2617
+INFO 2023-09-20 23:50:44,425 basehttp 14804 2892 "GET /hw/product/2/ HTTP/1.1" 200 529
+WARNING 2023-09-20 23:50:44,458 log 14804 2892 Not Found: /media/products/сфе_VjdA6SK.jpg
+WARNING 2023-09-20 23:50:44,459 basehttp 14804 2892 "GET /media/products/%D1%81%D1%84%D0%B5_VjdA6SK.jpg HTTP/1.1" 404 2617
+INFO 2023-09-21 13:04:54,920 autoreload 13192 1448 Watching for file changes with StatReloader
+INFO 2023-09-21 13:05:06,295 views 13192 3620 Index page accessed successfully!
+INFO 2023-09-21 13:05:06,296 basehttp 13192 3620 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-21 13:05:06,842 log 13192 3620 Not Found: /favicon.ico
+WARNING 2023-09-21 13:05:06,843 basehttp 13192 3620 "GET /favicon.ico HTTP/1.1" 404 2539
+INFO 2023-09-21 13:05:24,510 basehttp 13192 3620 "GET /hw/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-21 13:05:41,037 basehttp 13192 3620 "GET /hw/user/1/ HTTP/1.1" 200 793
+INFO 2023-09-21 13:05:56,696 basehttp 13192 3620 "GET /hw/user/1/ HTTP/1.1" 200 793
+INFO 2023-09-21 13:06:10,847 basehttp 13192 3620 "GET /hw/edit_product/2/ HTTP/1.1" 200 1705
+INFO 2023-09-21 13:06:17,485 basehttp 13192 3620 "GET /hw/edit_product/3/ HTTP/1.1" 200 1578
+INFO 2023-09-21 13:06:45,371 basehttp 13192 3620 "POST /hw/edit_product/3/ HTTP/1.1" 302 0
+INFO 2023-09-21 13:06:45,378 basehttp 13192 3620 "GET /hw/product/3/ HTTP/1.1" 200 527
+WARNING 2023-09-21 13:06:45,418 log 13192 3620 Not Found: /media/products/Блокчейн.jpg
+WARNING 2023-09-21 13:06:45,419 basehttp 13192 3620 "GET /media/products/%D0%91%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD.jpg HTTP/1.1" 404 2643
+INFO 2023-09-25 13:48:39,869 autoreload 2284 12384 Watching for file changes with StatReloader
+INFO 2023-09-25 13:48:42,254 views 2284 5184 Index page accessed successfully!
+INFO 2023-09-25 13:48:42,255 basehttp 2284 5184 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-25 13:48:42,749 log 2284 5184 Not Found: /favicon.ico
+WARNING 2023-09-25 13:48:42,749 basehttp 2284 5184 "GET /favicon.ico HTTP/1.1" 404 2539
+INFO 2023-09-25 13:48:58,728 basehttp 2284 5184 "GET /admin HTTP/1.1" 301 0
+INFO 2023-09-25 13:48:58,738 basehttp 2284 6656 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-09-25 13:48:58,809 basehttp 2284 6656 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-09-25 13:48:58,900 basehttp 2284 11636 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-09-25 13:48:58,915 basehttp 2284 8252 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-09-25 13:48:58,923 basehttp 2284 3696 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-09-25 13:48:58,923 basehttp 2284 10144 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-09-25 13:48:58,924 basehttp 2284 6656 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-09-25 13:48:58,962 basehttp 2284 3696 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-09-25 13:48:58,963 basehttp 2284 6656 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-09-25 13:49:07,282 basehttp 2284 6656 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-09-25 13:49:07,298 basehttp 2284 6656 "GET /admin/ HTTP/1.1" 200 5853
+INFO 2023-09-25 13:49:07,322 basehttp 2284 6656 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-09-25 13:49:07,435 basehttp 2284 6656 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-09-25 13:49:07,435 basehttp 2284 3696 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-09-25 13:49:42,085 basehttp 2284 3696 "GET /admin/auth/user/add/ HTTP/1.1" 200 10989
+INFO 2023-09-25 13:49:42,120 basehttp 2284 3696 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-09-25 13:49:42,129 basehttp 2284 6656 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:49:42,130 basehttp 2284 8252 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-09-25 13:49:42,134 basehttp 2284 11636 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-09-25 13:49:42,136 basehttp 2284 8516 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-09-25 13:49:42,147 basehttp 2284 8252 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-09-25 13:49:42,148 basehttp 2284 6656 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-09-25 13:49:42,164 basehttp 2284 3696 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-09-25 13:49:42,170 basehttp 2284 8516 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-09-25 13:49:42,176 basehttp 2284 10144 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-09-25 13:49:42,203 basehttp 2284 11636 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-09-25 13:49:42,259 basehttp 2284 11636 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-09-25 13:49:42,268 basehttp 2284 10144 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-09-25 13:50:04,478 basehttp 2284 10144 "POST /admin/auth/user/add/ HTTP/1.1" 200 11465
+INFO 2023-09-25 13:50:04,510 basehttp 2284 10144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:50:36,120 basehttp 2284 10144 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2023-09-25 13:50:36,173 basehttp 2284 10144 "GET /admin/auth/user/3/change/ HTTP/1.1" 200 23638
+INFO 2023-09-25 13:50:36,207 basehttp 2284 10144 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:50:36,218 basehttp 2284 3696 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2023-09-25 13:50:36,218 basehttp 2284 11636 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2023-09-25 13:50:36,218 basehttp 2284 6656 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2023-09-25 13:50:36,220 basehttp 2284 8516 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2023-09-25 13:50:36,331 basehttp 2284 6656 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-09-25 13:50:36,369 basehttp 2284 6656 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2023-09-25 13:50:36,369 basehttp 2284 8252 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2023-09-25 13:50:36,369 basehttp 2284 8516 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2023-09-25 13:50:36,369 basehttp 2284 3696 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2023-09-25 13:50:36,370 basehttp 2284 10144 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2023-09-25 13:50:36,370 basehttp 2284 11636 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-09-25 13:52:23,641 basehttp 2284 10144 "GET /admin/auth/user/3/delete/ HTTP/1.1" 200 7406
+INFO 2023-09-25 13:52:23,676 basehttp 2284 10144 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2023-09-25 13:52:25,942 basehttp 2284 10144 "POST /admin/auth/user/3/delete/ HTTP/1.1" 302 0
+INFO 2023-09-25 13:52:25,993 basehttp 2284 10144 "GET /admin/auth/user/ HTTP/1.1" 200 11877
+INFO 2023-09-25 13:52:26,021 basehttp 2284 11636 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:52:26,023 basehttp 2284 10144 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-09-25 13:52:26,120 basehttp 2284 10144 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-09-25 13:52:26,121 basehttp 2284 11636 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2023-09-25 13:52:26,128 basehttp 2284 11636 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-09-25 13:52:26,128 basehttp 2284 10144 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2023-09-25 13:53:38,120 autoreload 2284 12384 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:53:38,571 autoreload 8736 11096 Watching for file changes with StatReloader
+INFO 2023-09-25 13:53:42,901 autoreload 8736 11096 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:53:43,298 autoreload 32 11528 Watching for file changes with StatReloader
+INFO 2023-09-25 13:53:44,616 autoreload 32 11528 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:53:45,019 autoreload 8144 6484 Watching for file changes with StatReloader
+INFO 2023-09-25 13:53:46,318 autoreload 8144 6484 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:53:46,704 autoreload 1608 7416 Watching for file changes with StatReloader
+INFO 2023-09-25 13:53:48,974 autoreload 1608 7416 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:53:49,390 autoreload 1772 9240 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:04,043 autoreload 1772 9240 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:04,469 autoreload 4940 9008 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:16,037 autoreload 4940 9008 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:16,425 autoreload 4620 8552 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:18,708 autoreload 4620 8552 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:19,115 autoreload 12996 11636 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:24,542 autoreload 12996 11636 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:24,941 autoreload 1132 11064 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:31,326 autoreload 1132 11064 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:31,728 autoreload 5184 6188 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:38,118 autoreload 5184 6188 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:38,497 autoreload 8476 7008 Watching for file changes with StatReloader
+INFO 2023-09-25 13:54:41,806 autoreload 8476 7008 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 13:54:42,216 autoreload 3532 7160 Watching for file changes with StatReloader
+INFO 2023-09-25 13:55:00,551 autoreload 10060 13032 Watching for file changes with StatReloader
+INFO 2023-09-25 13:55:05,229 basehttp 10060 6448 "GET /admin/auth/user/ HTTP/1.1" 200 12880
+INFO 2023-09-25 13:55:05,251 basehttp 10060 6448 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:56:58,035 basehttp 10060 6448 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 12280
+INFO 2023-09-25 13:56:58,071 basehttp 10060 6448 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:57:01,596 basehttp 10060 6448 "GET /admin/new_hw_app/product/10/change/ HTTP/1.1" 200 13538
+INFO 2023-09-25 13:57:01,628 basehttp 10060 6448 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:57:04,426 basehttp 10060 6448 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 12280
+INFO 2023-09-25 13:57:15,632 basehttp 10060 6448 "GET /admin/new_hw_app/product/2/change/ HTTP/1.1" 200 13729
+INFO 2023-09-25 13:57:15,669 basehttp 10060 6448 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 13:57:19,637 basehttp 10060 6448 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 12280
+INFO 2023-09-25 14:00:08,330 autoreload 2964 12836 Watching for file changes with StatReloader
+INFO 2023-09-25 14:00:14,994 basehttp 2964 7368 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 12669
+INFO 2023-09-25 14:00:15,024 basehttp 2964 7368 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:01:01,059 autoreload 2964 12836 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:01:01,473 autoreload 11864 6792 Watching for file changes with StatReloader
+INFO 2023-09-25 14:01:07,890 autoreload 11864 6792 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:01:08,291 autoreload 5748 12340 Watching for file changes with StatReloader
+INFO 2023-09-25 14:01:15,117 basehttp 5748 3976 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 13459
+INFO 2023-09-25 14:01:15,143 basehttp 5748 3976 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:01:19,099 basehttp 5748 3976 "GET /admin/new_hw_app/product/?o=-2.-3 HTTP/1.1" 200 13793
+INFO 2023-09-25 14:01:19,132 basehttp 5748 3976 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:01:22,336 basehttp 5748 3976 "GET /admin/new_hw_app/product/?o=-2.3 HTTP/1.1" 200 13778
+INFO 2023-09-25 14:01:22,369 basehttp 5748 3976 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:01:24,039 basehttp 5748 3976 "GET /admin/new_hw_app/product/?o=-2.-3 HTTP/1.1" 200 13793
+INFO 2023-09-25 14:01:24,070 basehttp 5748 3976 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:01:26,809 basehttp 5748 3976 "GET /admin/new_hw_app/product/?o=-3 HTTP/1.1" 200 13272
+INFO 2023-09-25 14:01:26,841 basehttp 5748 3976 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:02:13,330 autoreload 5748 12340 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:02:13,726 autoreload 8400 12320 Watching for file changes with StatReloader
+INFO 2023-09-25 14:02:23,218 autoreload 8400 12320 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:02:23,648 autoreload 12568 9328 Watching for file changes with StatReloader
+INFO 2023-09-25 14:02:56,731 autoreload 12568 9328 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:02:57,132 autoreload 2204 6248 Watching for file changes with StatReloader
+INFO 2023-09-25 14:03:00,463 autoreload 2204 6248 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:12:52,924 autoreload 12528 11816 Watching for file changes with StatReloader
+INFO 2023-09-25 14:13:49,475 autoreload 12528 11816 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:13:49,902 autoreload 2912 5028 Watching for file changes with StatReloader
+INFO 2023-09-25 14:13:55,272 basehttp 2912 5876 "GET /admin/new_hw_app/product/?o=-3 HTTP/1.1" 200 13806
+INFO 2023-09-25 14:13:55,302 basehttp 2912 5876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-09-25 14:13:57,242 log 2912 5876 Internal Server Error: /admin/new_hw_app/product/7/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1838, in _changeform_view
+    media = self.media + admin_form.media
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 97, in media
+    for fs in self:
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 70, in __iter__
+    yield Fieldset(
+TypeError: Fieldset.__init__() got an unexpected keyword argument 'image'
+ERROR 2023-09-25 14:13:57,247 basehttp 2912 5876 "GET /admin/new_hw_app/product/7/change/?_changelist_filters=o%3D-3 HTTP/1.1" 500 117576
+INFO 2023-09-25 14:14:13,549 basehttp 2912 5876 "GET /admin/new_hw_app/product/?o=-3 HTTP/1.1" 200 13806
+INFO 2023-09-25 14:14:15,831 basehttp 2912 5876 "GET /admin/new_hw_app/product/?o=-3 HTTP/1.1" 200 13806
+INFO 2023-09-25 14:14:15,861 basehttp 2912 5876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:14:22,845 basehttp 2912 5876 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 13946
+INFO 2023-09-25 14:14:22,881 basehttp 2912 5876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-09-25 14:14:26,547 log 2912 5876 Internal Server Error: /admin/new_hw_app/product/2/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1838, in _changeform_view
+    media = self.media + admin_form.media
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 97, in media
+    for fs in self:
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 70, in __iter__
+    yield Fieldset(
+TypeError: Fieldset.__init__() got an unexpected keyword argument 'image'
+ERROR 2023-09-25 14:14:26,551 basehttp 2912 5876 "GET /admin/new_hw_app/product/2/change/ HTTP/1.1" 500 116901
+INFO 2023-09-25 14:14:27,780 basehttp 2912 5876 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 13946
+ERROR 2023-09-25 14:15:18,099 log 2912 5876 Internal Server Error: /admin/new_hw_app/product/2/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1838, in _changeform_view
+    media = self.media + admin_form.media
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 97, in media
+    for fs in self:
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 70, in __iter__
+    yield Fieldset(
+TypeError: Fieldset.__init__() got an unexpected keyword argument 'image'
+ERROR 2023-09-25 14:15:18,107 basehttp 2912 5876 "GET /admin/new_hw_app/product/2/change/ HTTP/1.1" 500 116901
+INFO 2023-09-25 14:18:07,429 autoreload 9496 1020 Watching for file changes with StatReloader
+INFO 2023-09-25 14:18:11,775 basehttp 9496 2344 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 13946
+INFO 2023-09-25 14:18:13,232 basehttp 9496 2344 "GET /admin/new_hw_app/product/2/change/ HTTP/1.1" 200 12907
+INFO 2023-09-25 14:18:13,270 basehttp 9496 6444 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:18:13,301 basehttp 9496 2344 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2023-09-25 14:19:11,649 basehttp 9496 2344 "GET /admin/new_hw_app/user/ HTTP/1.1" 200 12950
+INFO 2023-09-25 14:19:11,733 basehttp 9496 2344 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:19:13,432 basehttp 9496 2344 "GET /admin/new_hw_app/user/13/change/ HTTP/1.1" 200 13371
+INFO 2023-09-25 14:19:13,467 basehttp 9496 2344 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:19:19,860 basehttp 9496 2344 "GET /admin/new_hw_app/order/ HTTP/1.1" 200 13201
+INFO 2023-09-25 14:19:19,893 basehttp 9496 2344 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:19:21,490 basehttp 9496 2344 "GET /admin/new_hw_app/order/11/change/ HTTP/1.1" 200 15313
+INFO 2023-09-25 14:19:21,524 basehttp 9496 2344 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:19:21,627 basehttp 9496 2344 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2023-09-25 14:28:36,891 autoreload 8944 2796 Watching for file changes with StatReloader
+INFO 2023-09-25 14:28:58,928 autoreload 1912 12536 Watching for file changes with StatReloader
+INFO 2023-09-25 14:31:43,137 autoreload 1912 12536 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:31:43,519 autoreload 10920 5864 Watching for file changes with StatReloader
+INFO 2023-09-25 14:31:44,778 autoreload 10920 5864 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:31:45,206 autoreload 7740 628 Watching for file changes with StatReloader
+INFO 2023-09-25 14:31:53,231 autoreload 9096 5536 Watching for file changes with StatReloader
+INFO 2023-09-25 14:31:59,375 basehttp 9096 12560 "GET /admin/new_hw_app/product/ HTTP/1.1" 200 13946
+INFO 2023-09-25 14:31:59,408 basehttp 9096 12560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:32:01,394 basehttp 9096 12560 "GET /admin/new_hw_app/order/ HTTP/1.1" 200 15483
+INFO 2023-09-25 14:32:01,428 basehttp 9096 12560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-09-25 14:32:05,349 log 9096 12560 Internal Server Error: /admin/new_hw_app/order/1/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1838, in _changeform_view
+    media = self.media + admin_form.media
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 97, in media
+    for fs in self:
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 70, in __iter__
+    yield Fieldset(
+TypeError: Fieldset.__init__() got an unexpected keyword argument 'products'
+ERROR 2023-09-25 14:32:05,354 basehttp 9096 12560 "GET /admin/new_hw_app/order/1/change/ HTTP/1.1" 500 116789
+INFO 2023-09-25 14:32:09,976 basehttp 9096 12560 "GET /admin/new_hw_app/order/ HTTP/1.1" 200 15483
+INFO 2023-09-25 14:32:11,311 basehttp 9096 12560 "GET /admin/new_hw_app/user/ HTTP/1.1" 200 17231
+INFO 2023-09-25 14:32:11,397 basehttp 9096 12560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-09-25 14:32:13,370 log 9096 12560 Internal Server Error: /admin/new_hw_app/user/2/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (description) specified for User
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (description) specified for User. Check fields/fieldsets/exclude attributes of class UserAdmin.
+ERROR 2023-09-25 14:32:13,375 basehttp 9096 12560 "GET /admin/new_hw_app/user/2/change/ HTTP/1.1" 500 133081
+INFO 2023-09-25 14:32:17,027 basehttp 9096 12560 "GET /admin/new_hw_app/user/ HTTP/1.1" 200 17231
+INFO 2023-09-25 14:32:24,287 basehttp 9096 12560 "GET /admin/new_hw_app/user/ HTTP/1.1" 200 17231
+INFO 2023-09-25 14:32:24,319 basehttp 9096 12560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-09-25 14:32:26,404 log 9096 12560 Internal Server Error: /admin/new_hw_app/user/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (description) specified for User
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (description) specified for User. Check fields/fieldsets/exclude attributes of class UserAdmin.
+ERROR 2023-09-25 14:32:26,409 basehttp 9096 12560 "GET /admin/new_hw_app/user/3/change/ HTTP/1.1" 500 133081
+INFO 2023-09-25 14:33:13,674 autoreload 9096 5536 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:33:14,095 autoreload 7388 7416 Watching for file changes with StatReloader
+INFO 2023-09-25 14:33:15,412 autoreload 7388 7416 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:33:15,805 autoreload 9404 3728 Watching for file changes with StatReloader
+ERROR 2023-09-25 14:33:16,439 log 9404 10624 Internal Server Error: /admin/new_hw_app/user/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\options.py", line 1838, in _changeform_view
+    media = self.media + admin_form.media
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 97, in media
+    for fs in self:
+  File "C:\Users\Mariia\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\admin\helpers.py", line 70, in __iter__
+    yield Fieldset(
+TypeError: Fieldset.__init__() got an unexpected keyword argument 'email'
+ERROR 2023-09-25 14:33:16,444 basehttp 9404 10624 "GET /admin/new_hw_app/user/3/change/ HTTP/1.1" 500 117238
+INFO 2023-09-25 14:34:29,848 autoreload 9404 3728 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:34:30,248 autoreload 7044 6864 Watching for file changes with StatReloader
+INFO 2023-09-25 14:34:34,438 basehttp 7044 7856 "GET /admin/new_hw_app/user/3/change/ HTTP/1.1" 200 12501
+INFO 2023-09-25 14:34:34,477 basehttp 7044 7856 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:34:47,054 autoreload 7044 6864 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\new_hw_app\admin.py changed, reloading.
+INFO 2023-09-25 14:34:47,499 autoreload 3728 9404 Watching for file changes with StatReloader
+INFO 2023-09-25 14:34:50,045 basehttp 3728 9564 "GET /admin/new_hw_app/order/ HTTP/1.1" 200 15483
+INFO 2023-09-25 14:34:50,076 basehttp 3728 9564 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-25 14:34:51,438 basehttp 3728 9564 "GET /admin/new_hw_app/order/1/change/ HTTP/1.1" 200 16124
+INFO 2023-09-25 14:34:51,468 basehttp 3728 9564 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-28 15:36:50,986 autoreload 7568 6580 Watching for file changes with StatReloader
+INFO 2023-09-28 15:36:54,076 views 7568 11560 Index page accessed successfully!
+INFO 2023-09-28 15:36:54,225 basehttp 7568 11560 "GET / HTTP/1.1" 200 24
+WARNING 2023-09-28 15:36:54,576 log 7568 11560 Not Found: /favicon.ico
+WARNING 2023-09-28 15:36:54,577 basehttp 7568 11560 "GET /favicon.ico HTTP/1.1" 404 12301
+INFO 2023-09-28 15:37:11,674 basehttp 7568 11560 "GET /hw/user/1/ HTTP/1.1" 200 10591
+INFO 2023-09-28 15:37:11,711 basehttp 7568 11560 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-09-28 15:37:11,719 basehttp 7568 8260 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-09-28 15:37:11,802 basehttp 7568 8260 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-09-28 15:37:11,824 basehttp 7568 8260 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2023-09-28 15:41:44,456 autoreload 7568 6580 C:\Users\Mariia\Desktop\учеба\django\homework\myhw\myhw\settings.py changed, reloading.

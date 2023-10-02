@@ -1,0 +1,10 @@
+{% extends 'new_hw_app/base.html' %}
+
+{% block content %}
+    <h1>Товар Изменен!</h1>
+    <p><strong>Название продукта:</strong> {{ product.name }}</p>
+    <p><strong>Описание:</strong> {{ product.description }}</p>
+    <p><strong>Цена:</strong> {{ product.price }}</p>
+    <p><strong>Изображение:</strong></p>
+    <img src="{{ product.image.url }}" alt="{{ product.name }}" style="max-width: 300px;">
+{% endblock %}

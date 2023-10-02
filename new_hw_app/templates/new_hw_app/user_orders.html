@@ -1,0 +1,22 @@
+{% extends 'new_hw_app/base.html' %}
+
+{% block title %}{{ user.name }} Orders{% endblock %}
+
+{% block content %}
+    <h2>Заказы пользователя: {{ user.name }}</h2>
+    
+    {% if orders %}
+        <ul>
+            {% for order in orders %}
+                <li>Заказ {{ order.id }} - Общая стоимость: {{ order.total_price }}</li>
+                <ul>
+                    {% for product in order.products.all %}
+                        <li>{{ product.name }} - Цена: {{ product.price }}</li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>У пользователя {{ user.name }} нет заказов.</p>
+    {% endif %}
+{% endblock %}
